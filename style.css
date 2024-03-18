@@ -37,7 +37,7 @@ body {
 
 .carousel {
   position: absolute;
-  bottom: 3cm;
+  bottom: 1cm;
   overflow: hidden;
   cursor: grab;
   display: flex;
